@@ -1,4 +1,4 @@
-const MedicoClinica = require('../model/MedicoClinica');
+const MedicoClinica = require('../model/MedicoClinica.js');
 
 
 module.exports = {

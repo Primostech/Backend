@@ -1,4 +1,4 @@
-const express                 = require('express');
+const express                 = require('express')
 const UserController          = require('../controller/User')
 const ClinicaController       = require('../controller/Clinica')
 const EspecialidadeController = require('../controller/Especialidade')
